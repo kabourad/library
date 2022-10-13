@@ -20,7 +20,7 @@ body{
 
 #rabbit{
 	position: absolute;
-	bottom: -10vh;
+	bottom: -20vh;
 	transition: all .2s ease;
 }
 
@@ -31,7 +31,6 @@ body{
 	opacity: 0;
 	transition: all .2s ease .2s;
 }
-
 
 #box:nth-child(1):hover #rabbit{
 	bottom: 0;
